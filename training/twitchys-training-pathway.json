@@ -1,0 +1,13 @@
+{
+  "title": "Twitchy's Training",
+  "description": "",
+  "courses": [
+    {
+      "pathway_id": "twitchyfpv",
+      "title": "CentOS Lab",
+      "id": "CentOS",
+      "course_id": "CentOS",
+      "description": "CentOS Lab"
+    }
+  ]
+}

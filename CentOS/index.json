@@ -4,7 +4,9 @@
   "difficulty": "Beginner",
   "time": "1 hour",
   "details": {
-    "steps": [],
+    "steps": {
+      "step1": "step1.md"
+    },
     "intro": {
       "text": "intro.md"
     },
