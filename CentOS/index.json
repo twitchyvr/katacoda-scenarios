@@ -1,0 +1,21 @@
+{
+  "title": "CentOS Lab",
+  "description": "CentOS Lab",
+  "difficulty": "Beginner",
+  "time": "1 hour",
+  "details": {
+    "steps": [],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "centos"
+  }
+}
