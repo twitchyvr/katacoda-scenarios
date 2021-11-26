@@ -1,8 +1,8 @@
 {
-  "title": "24 Hours - Dual Node Lab",
-  "description": "Dual node terminal lab with two CentOS 7 instances.",
+  "title": "3 Hours - Dual Node Lab",
+  "description": "Dual node terminal lab with two CentOS 7 instances configured for three hours",
   "difficulty": "Advanced",
-  "time": "20 Hours",
+  "time": "3 Hours",
   "details": {
     "steps": [
       {

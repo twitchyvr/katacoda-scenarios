@@ -1,8 +1,8 @@
 {
-  "title": "Single Lab - 10 Hours",
-  "description": "A lab that allows you to run linux on a single lab node for ten hours.",
-  "difficulty": "Intermediate",
-  "time": "10 hours",
+  "title": "Single Lab - 1 Hour",
+  "description": "A lab that allows you to run linux on a single lab node configured for one hour",
+  "difficulty": "Beginner",
+  "time": "1 hour",
   "details": {
     "steps": [
       {
