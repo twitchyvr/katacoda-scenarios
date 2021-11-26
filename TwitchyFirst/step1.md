@@ -1,6 +1,6 @@
-# ulimit
+## ulimit
 
-## *ulimit* is a built-in bash command that displays or resets a number of resource limits associated with processes running under a shell
+### *ulimit* is a built-in bash command that displays or resets a number of resource limits associated with processes running under a shell
 
 ```bash
 > ulimit -a
@@ -13,9 +13,9 @@
 
 ---
 
-# ldd
+## ldd
 
-## *ldd* can be used to ascertain what shared libraries an executable requires. It shows the soname of the library and what file it actually points to
+### *ldd* can be used to ascertain what shared libraries an executable requires. It shows the soname of the library and what file it actually points to
 
 ```bash
 > ldd /usr/bin/nano
@@ -27,9 +27,9 @@
 
 ---
 
-# Kernel Upgrade (Fedora)
+## Kernel Upgrade (Fedora)
 
-## When you install a new kernel on your system, it requires a reboot to take effect
+### When you install a new kernel on your system, it requires a reboot to take effect
 
 ```bash
 > sudo rpm -ivh kernel-{version}.{arch}.rpm
@@ -45,9 +45,9 @@
 
 ---
 
-# netstat
+## netstat
 
-## Use netstat to find processes listening to ports
+### Use netstat to find processes listening to ports
 
 ```bash
 > netstat -tulpen | grep 80
@@ -55,9 +55,9 @@
 
 ---
 
-# file
+## file
 
-## Use *file* to discover the type of data inside a file, even without an extension
+### Use *file* to discover the type of data inside a file, even without an extension
 
 ```bash
 > file /usr/bin/ls
