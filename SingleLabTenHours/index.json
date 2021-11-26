@@ -1,0 +1,26 @@
+{
+  "title": "Single Lab - 10 Hours",
+  "description": "A lab that allows you to run linux on a single lab node for ten hours.",
+  "difficulty": "Intermediate",
+  "time": "10 hours",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1",
+        "text": "step1.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "centos"
+  }
+}
