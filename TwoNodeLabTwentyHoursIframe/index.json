@@ -1,0 +1,24 @@
+{
+  "title": "24 Hours - Dual Node Lab (iFrame)",
+  "description": "Dual node terminal lab with two CentOS 7 instances (using iFrame instead of terminal)",
+  "difficulty": "Intermediate",
+  "time": "20 Hours",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1",
+        "text": "step1.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {},
+  "backend": {
+    "imageid": "centos-cluster2"
+  }
+}
